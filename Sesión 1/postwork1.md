@@ -4,6 +4,11 @@
 
 This is an interesting way to **document** the code.
 
+## Objetivo
+Reforzar la lectura de ficheros CSV y la escritura de variables resultado en un nuevo fichero CSV, de este modo será fácil su lectura en otros lenguajes o plataformas.
+
+## Desarrollo
+
 Importar los datos de soccer de la temporada 2019/2020 de la  1ra división de la liga española
 
 ```r
